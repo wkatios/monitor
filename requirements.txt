@@ -1,0 +1,8 @@
+paramiko
+ecdsa
+psutil
+jinja2
+requests
+netifaces
+toml
+fabric==1.13.2
